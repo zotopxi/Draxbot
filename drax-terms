@@ -1,0 +1,154 @@
+# DraxBot Dev Centre
+# DraxBot DiscordBot — Terms of Service
+
+**Last Updated:** October 9, 2026
+
+## 1. Acceptance of Terms
+
+By inviting, accessing, or using **DraxBot**, you agree to these Terms of Service and our Privacy Policy.
+
+If you do not agree with these terms, you must discontinue using DraxBot and remove it from any Discord servers you manage.
+
+DraxBot is an independent Discord bot and is not officially affiliated with, endorsed by, or sponsored by Discord Inc.
+
+## 2. Description of Services
+
+**DraxBot** provides Discord servers and users with various features, including:
+
+- Server moderation and administration tools.
+- Automated moderation and security systems.
+- Music and entertainment features.
+- User profiles, reminders, and customizable commands.
+- Server configuration and management.
+- Additional features introduced through future updates.
+
+Features may be changed, removed, or temporarily disabled without prior notice.
+
+## 3. User Responsibilities
+
+By using DraxBot, you agree to:
+
+- Follow the [Discord Terms of Service](https://discord.com/terms) and [Discord Community Guidelines](https://discord.com/guidelines).
+- Comply with all applicable laws and regulations.
+- Avoid exploiting bugs, vulnerabilities, or unintended bot behavior.
+- Not attempt to disrupt, overload, or damage DraxBot infrastructure.
+- Not use DraxBot for harassment, spam, scams, or other malicious activities.
+- Not attempt to gain unauthorized access to bot systems, databases, or administrative functions.
+
+Violating these conditions may result in temporary or permanent restrictions.
+
+## 4. Server Administrator Responsibilities
+
+Server owners and administrators are responsible for:
+
+- Granting DraxBot appropriate permissions.
+- Configuring moderation and automation features correctly.
+- Ensuring the bot is used appropriately within their communities.
+- Monitoring automated actions and reviewing moderation decisions when necessary.
+- Informing their members about relevant automated moderation and data-handling practices.
+
+**DraxBot Developers are not responsible for incorrect server configurations or actions caused by permissions granted by server administrators**, except where liability cannot legally be excluded.
+
+## 5. Data Collection and Privacy
+
+DraxBot may store information necessary for its functionality, including:
+
+- Discord User IDs and Server IDs.
+- Moderation actions, including warnings, mutes, bans, and blacklists.
+- Server settings, role IDs, and channel IDs.
+- User-created reminders, playlists, and configurations.
+- Bug reports and support-related information.
+
+Information is processed according to our **Privacy Policy**.
+
+Users may request deletion of eligible personal data using:
+
+`mydata forgetme`
+
+Certain records, including active moderation and blacklist information, may be retained where necessary and permitted.
+
+For additional assistance, contact our support team.
+
+## 6. Blacklisting and Service Restrictions
+
+DraxBot reserves the right to restrict or terminate access for users or servers that:
+
+- Violate these Terms of Service.
+- Abuse bot commands or features.
+- Attempt to exploit DraxBot.
+- Threaten the security or availability of our services.
+- Engage in fraudulent or malicious behavior.
+
+Restrictions may be temporary or permanent depending on the circumstances.
+
+Users who believe they were incorrectly restricted may appeal through our [Official Support Server](https://discord.gg/wckT6UPk37).
+
+## 7. Service Availability
+
+DraxBot is provided on an **"AS IS"** and **"AS AVAILABLE"** basis.
+
+We do not guarantee:
+
+- Continuous uptime or uninterrupted access.
+- Error-free operation of all commands.
+- Permanent availability of specific features.
+- Compatibility with all Discord updates or third-party services.
+
+Maintenance, technical problems, or Discord API changes may temporarily affect functionality.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, DraxBot and its developers shall not be liable for indirect or consequential damages resulting from the use or inability to use the bot.
+
+This includes issues involving:
+
+- Incorrect moderation actions.
+- Server configuration errors.
+- Service interruptions.
+- Loss of server settings or bot-related data.
+- Misuse of bot features by server members or administrators.
+
+Nothing in these terms excludes liability that cannot legally be excluded.
+
+## 9. Intellectual Property
+
+DraxBot's original branding, software, designs, and related content belong to their respective owners.
+
+Users may not redistribute, impersonate, or commercially exploit proprietary DraxBot materials without authorization.
+
+Third-party trademarks and services remain the property of their respective owners.
+
+## 10. Termination of Service
+
+You may stop using DraxBot at any time by removing it from your Discord server or discontinuing interaction with its commands.
+
+We may suspend or terminate access when reasonably necessary to protect our services, enforce these terms, or comply with applicable obligations.
+
+Removing DraxBot does not necessarily delete previously stored information. Data deletion requests are handled under our Privacy Policy.
+
+## 11. Changes to These Terms
+
+We reserve the right to update or modify these Terms of Service.
+
+Updates will be reflected by the **Last Updated** date shown at the top of this document.
+
+Continued use of DraxBot after updated terms become effective constitutes acceptance of those terms where permitted by applicable law.
+
+## 12. Contact and Support
+
+If you have questions, concerns, or wish to report a violation of these Terms of Service, please contact our development team.
+
+**Official Support Server:**
+https://discord.gg/wckT6UPk37
+
+Support requests can be submitted by opening a ticket in our Discord server.
+
+## 13. Official Bot Invitation
+
+You can invite DraxBot to your Discord server using the link below:
+
+[Invite DraxBot](https://discord.com/oauth2/authorize?client_id=795297269024686081&scope=bot&permissions=8)
+
+---
+
+**© 2026 DraxBot Dev Centre. All Rights Reserved.**
